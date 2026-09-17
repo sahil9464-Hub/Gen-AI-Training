@@ -1,0 +1,85 @@
+products = []
+
+while True:
+    print("\n1. Add Product")
+    print("2. View All Products")
+    print("3. GST Calculate")
+    print("4. Discount")
+    print("5. Final Bill")
+    print("6. Exit")
+
+    ch = int(input("Enter choice: "))
+
+    # 1. Add Product
+    if ch == 1:
+        name = input("Enter product name: ")
+        quantity = int(input("Enter quantity: "))
+        price = int(input("Enter price: "))
+
+        products.append([name, quantity, price])
+        print("Product Added")
+
+    # 2. View Products
+    elif ch == 2:
+        for p in products:
+            total = p[1] * p[2]
+            print("Product:", p[0], "Quantity:", p[1],
+                  "Price:", p[2], "Total:", total)
+
+    # 3. GST
+    elif ch == 3:
+        total = 0
+
+        for p in products:
+            total = total + p[1] * p[2]
+
+        gst = total * 18 / 100
+        print("GST:", gst)
+
+    # 4. Discount
+    elif ch == 4:
+        total = 0
+
+        for p in products:
+            total = total + p[1] * p[2]
+
+        if total >= 3000:
+            discount = total * 10 / 100
+        elif total <= 2000:
+            discount = total * 6 / 100
+        else:
+            discount = 0
+
+        print("Discount:", discount)
+
+    # 5. Final Bill
+    elif ch == 5:
+        total = 0
+
+        for p in products:
+            total = total + p[1] * p[2]
+
+        gst = total * 18 / 100
+
+        if total >= 3000:
+            discount = total * 10 / 100
+        elif total <= 2000:
+            discount = total * 6 / 100
+        else:
+            discount = 0
+
+        final = total + gst - discount
+
+        print("\n----- FINAL BILL -----")
+        print("Total:", total)
+        print("GST:", gst)
+        print("Discount:", discount)
+        print("Final Bill:", final)
+
+    # 6. Exit
+    elif ch == 6:
+        print("Exit")
+        break
+
+    else:
+        print("Invalid Choice")
