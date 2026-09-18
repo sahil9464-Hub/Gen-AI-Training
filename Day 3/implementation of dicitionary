@@ -1,0 +1,84 @@
+ implemenntation of dictionary minor project
+
+employee = dict()
+
+while true:
+    print("1. Add")
+    print("2. VIEW")
+    print("3. Search")
+    print("4. update")
+    print("5. Delete")
+    print("6. Exit")
+
+    ch = int(input("enter the choice"))
+
+    if(ch == 1):
+        id = int(input("enter the id"))
+        name = input("enter the name")
+        post = input("eenter the post")
+        salary = int(input("enter the salary"))
+        employee[id]={
+            "name":name,
+            "post": post,
+            "salary": salary
+        }
+        print("employee added successfully")
+
+    elif ch ==2 :
+        if employee:
+            print("\n===== EMPLOYEE LIST =====")
+
+            for id, emp in employee.items():
+                print("Emp ID:", id)
+                print("Name:", emp["name"])
+                print("Post:", emp["post"])
+                print("Salary:", emp["salary"])
+                print("----------------------")
+
+        else :
+            print("Employee not found")        
+
+    elif ch == 3:
+
+        empId = int(input("enter your id"))
+
+        if empId in employee:
+            print("emp name",employee[empId]["name"])
+            print("emp post", employee[post])
+            print("emp salary", empId[salary])
+
+        else:
+            print("Employee not exit")
+
+    elif ch == 4:
+        id = int(input("Enter employee ID to update: "))
+
+        if id in employee:
+            name = input("Enter new name: ")
+            post = input("Enter new post: ")
+            salary = int(input("Enter new salary: "))
+
+            employee[id]["name"] = name
+            employee[id]["post"] = post
+            employee[id]["salary"] = salary
+
+            print("Employee updated successfully")
+        else:
+            print("Employee not found")
+
+    elif ch == 5:
+        id = int(input("Enter employee ID to delete: "))
+
+        if id in employee:
+            del employee[id]
+            print("Employee deleted successfully")
+        else:
+            print("Employee not found")
+
+    elif ch == 6:
+        print("Thank you!")
+        break
+
+    else:
+
+        print("Invalid choice")
