@@ -1,0 +1,71 @@
+# Smart Parking Management System 
+class Parking:
+    def __init__(self, vehicle_number, vehicle_type, slot):
+        self.vehicle_number = vehicle_number
+        self.vehicle_type = vehicle_type
+        self.slot = slot
+        self.status = "Parked"
+
+    def show_details(self):
+        print("Vehicle Number:", self.vehicle_number)
+        print("Vehicle Type:", self.vehicle_type)
+        print("Parking Slot:", self.slot)
+        print("Status:", self.status)
+
+    def park(self):
+        if self.status == "Not Parked":
+            self.status = "Parked"
+            print("Vehicle Parked Successfully!!")
+        else:
+            print("Vehicle is already Parked!!")
+
+    def remove(self):
+        if self.status == "Parked":
+            self.status = "Not Parked"
+            print("Vehicle Removed Successfully!!")
+        else:
+            print("Vehicle is already Removed!!")
+
+    def change_slot(self, new_slot):
+        if self.status == "Parked":
+            self.slot = new_slot
+            print("Parking Slot Updated Successfully!!")
+        else:
+            print("Please Park the Vehicle First!!")
+
+
+vehicle_number = input("Enter Vehicle Number: ")
+vehicle_type = input("Enter Vehicle Type: ")
+slot = input("Enter Parking Slot: ")
+
+p = Parking(vehicle_number, vehicle_type, slot)
+
+while True:
+    print("1. View Parking Details")
+    print("2. Park Vehicle")
+    print("3. Remove Vehicle")
+    print("4. Change Parking Slot")
+    print("5. Exit")
+
+    choice = int(input("Enter Choice (1-5): "))
+
+    if choice == 1:
+        p.show_details()
+
+    elif choice == 2:
+        p.park()
+
+    elif choice == 3:
+        p.remove()
+
+    elif choice == 4:
+        new_slot = input("Enter New Parking Slot: ")
+        p.change_slot(new_slot)
+
+    elif choice == 5:
+        print("Thank You!!")
+        break
+
+    else:
+        print("Invalid Choice!!")
+      

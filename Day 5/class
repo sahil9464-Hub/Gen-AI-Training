@@ -1,0 +1,17 @@
+ class Student:
+        def __init__(self,name,course):
+            self.name = name
+            self.course = course
+
+    class Address:
+        def __init__(self,city,state):
+            self.city = city
+            self.state = state
+
+        def show(self):
+            print("city is", self.city)
+            print("state is",self.state)
+
+    s = Student ("ram","java")
+    a = Address("hisar","haryana")
+    a.show()
