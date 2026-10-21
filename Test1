@@ -1,0 +1,50 @@
+import numpy as np
+
+sales = np.array([120, 150, 180, 90, 200, 250, 175, 300, 220, 160])
+
+marks = np.array([
+    [85, 78, 92],
+    [67, 75, 80],
+    [90, 88, 95],
+    [55, 60, 65],
+    [72, 85, 78]
+])
+
+prices = np.array([100, 250, 150, 500, 350, 120, 450, 200])
+
+ages = np.array([22, 35, 28, 41, 19, 32, 25, 45, 30, 27])
+
+# 1. Find Array Information
+# Using the sales array, find:
+# Number of elements
+# Dimension
+# Data type
+# Shape
+
+# 2. Calculate Total Sales
+# 3. Calculate Average Sales
+# 4. Find Maximum and Minimum
+# Find:
+# Maximum sales
+# Minimum sales
+# Index of maximum sales
+# Index of minimum sales
+
+# 5. Access Array Elements
+# From the sales array:
+# Print first element
+# Print last element
+# Print 5th element
+# Print elements from index 2 to 6
+# 6. Reverse an Sales Array 
+# 7. Find Sales Greater Than 200
+
+# 8. Find Ages Between 25 and 35
+
+# 9. Display Student marks
+# First student's marks
+# Second student's marks
+# Marks of all students in first subject
+# Marks of all students in second subject
+# 10. Calculate Subject-wise Average
+# 11. Increase Prices by 10% 
