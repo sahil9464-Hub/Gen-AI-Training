@@ -1,0 +1,501 @@
+name,year,selling_price,km_driven,fuel,seller_type,transmission,owner,engine_cc,mileage_kmpl
+Toyota Etios,2018,381210,87093,Petrol,Trustmark Dealer,Manual,First Owner,1800,17.0
+Tata Punch,2014,157837,155092,Petrol,Individual,Manual,First Owner,1500,16.7
+Mahindra Scorpio,2013,137054,156415,Diesel,Dealer,Manual,Second Owner,1000,15.4
+Honda Jazz,2015,263278,128606,Petrol,Individual,Manual,First Owner,2000,18.9
+Maruti Suzuki Swift,2019,264314,82725,Petrol,Individual,Manual,Second Owner,1500,19.6
+Kia Sonet,2013,309326,158677,Diesel,Individual,Manual,Second Owner,2000,19.3
+Toyota Etios,2024,916996,31401,Diesel,Individual,Manual,Second Owner,2000,16.7
+Toyota Glanza,2017,325746,96003,CNG,Individual,Manual,First Owner,2000,13.6
+Maruti Suzuki Wagon R,2023,332744,23500,Petrol,Dealer,Manual,Second Owner,1500,20.7
+Tata Punch,2020,189326,85256,Petrol,Individual,Manual,Third Owner,1500,18.1
+Hyundai i20,2015,92052,127051,CNG,Individual,Manual,First Owner,1000,21.6
+Kia Sonet,2013,142380,138997,Petrol,Individual,Manual,First Owner,1200,21.2
+Honda City,2021,450215,65325,Petrol,Individual,Manual,First Owner,1500,12.3
+Mahindra XUV300,2015,136137,137560,Petrol,Individual,Manual,First Owner,1200,12.3
+Tata Punch,2013,80000,137631,Petrol,Individual,Manual,Second Owner,1800,15.0
+Maruti Suzuki Dzire,2024,440371,26753,CNG,Individual,Manual,First Owner,1000,13.8
+Tata Nexon,2017,200307,116826,Diesel,Dealer,Manual,First Owner,1200,21.0
+Maruti Suzuki Baleno,2010,80000,196492,Diesel,Dealer,Manual,First Owner,1200,19.4
+Mahindra XUV300,2017,291474,115583,Petrol,Individual,Manual,First Owner,1200,22.4
+Honda City,2017,383575,91148,Petrol,Dealer,Automatic,First Owner,1000,19.6
+Toyota Innova,2023,1054404,39972,Petrol,Dealer,Manual,Second Owner,1000,18.8
+Hyundai i10,2021,403048,56368,Petrol,Dealer,Manual,First Owner,1800,22.8
+Kia Sonet,2013,173557,150206,Petrol,Dealer,Manual,First Owner,1200,19.9
+Mahindra Bolero,2012,80000,178446,Petrol,Dealer,Manual,Second Owner,800,18.3
+Toyota Etios,2019,248614,101751,Petrol,Dealer,Manual,First Owner,800,23.9
+Maruti Suzuki Swift,2010,80000,213532,Petrol,Dealer,Manual,First Owner,1200,18.5
+Tata Tiago,2015,80000,147777,Diesel,Individual,Manual,First Owner,1000,16.8
+Maruti Suzuki Baleno,2012,80000,166683,Petrol,Trustmark Dealer,Manual,Third Owner,1500,14.6
+Maruti Suzuki Wagon R,2010,80000,196232,Petrol,Individual,Automatic,Second Owner,1800,20.8
+Honda Amaze,2024,689352,33201,Diesel,Dealer,Automatic,First Owner,1000,22.9
+Toyota Glanza,2011,90383,181454,Diesel,Individual,Manual,First Owner,1500,17.8
+Kia Seltos,2010,103653,193569,Diesel,Individual,Manual,First Owner,1000,23.2
+Hyundai Venue,2024,738806,33885,Petrol,Individual,Automatic,First Owner,1200,10.1
+Hyundai i20,2013,263311,155288,Diesel,Individual,Manual,First Owner,1800,17.8
+Tata Tiago,2023,389643,27248,Petrol,Individual,Automatic,Second Owner,1200,17.8
+Maruti Suzuki Wagon R,2010,80000,187026,Petrol,Individual,Manual,Second Owner,1800,15.1
+Maruti Suzuki Dzire,2012,80000,175606,Petrol,Individual,Automatic,First Owner,1000,27.5
+Tata Tiago,2011,80000,180035,Petrol,Individual,Automatic,Second Owner,1200,17.7
+Maruti Suzuki Baleno,2021,221943,64082,Petrol,Individual,Manual,Third Owner,1200,16.4
+Honda Jazz,2019,309804,92040,Petrol,Trustmark Dealer,Manual,First Owner,1200,18.1
+Tata Punch,2017,457607,103501,Diesel,Individual,Manual,First Owner,2000,10.0
+Mahindra Bolero,2013,80000,165074,Petrol,Individual,Manual,Second Owner,1000,15.0
+Honda Amaze,2011,82890,184546,Petrol,Individual,Manual,First Owner,1800,21.9
+Hyundai i20,2019,348286,69182,Petrol,Individual,Automatic,Second Owner,1800,15.5
+Mahindra Bolero,2013,80000,173307,Petrol,Individual,Manual,First Owner,1200,14.7
+Toyota Innova,2019,666198,77991,Petrol,Dealer,Manual,First Owner,1200,23.2
+Hyundai i10,2020,293003,52138,Petrol,Trustmark Dealer,Automatic,Second Owner,1200,23.4
+Hyundai Venue,2023,641520,23459,Petrol,Individual,Manual,First Owner,1000,20.1
+Honda Jazz,2017,330308,95747,Diesel,Dealer,Manual,First Owner,1800,16.2
+Maruti Suzuki Swift,2010,80000,192626,CNG,Individual,Automatic,First Owner,1200,17.0
+Maruti Suzuki Wagon R,2014,166450,140713,Petrol,Individual,Manual,First Owner,2000,14.8
+Maruti Suzuki Baleno,2023,562743,31958,Diesel,Individual,Manual,First Owner,1500,14.0
+Toyota Glanza,2018,349149,103436,Diesel,Individual,Manual,First Owner,1200,13.8
+Honda Jazz,2019,660332,88078,Electric,Individual,Automatic,First Owner,1500,15.5
+Honda City,2017,256519,111792,Diesel,Dealer,Manual,First Owner,1200,13.9
+Toyota Etios,2012,171015,172917,CNG,Dealer,Manual,First Owner,2000,11.7
+Tata Nexon,2024,512445,31393,CNG,Individual,Manual,Second Owner,1000,18.9
+Tata Altroz,2022,690262,22704,Diesel,Individual,Manual,First Owner,2000,18.9
+Maruti Suzuki Baleno,2025,860188,7626,Petrol,Individual,Automatic,First Owner,1800,24.8
+Maruti Suzuki Baleno,2023,547899,9837,Petrol,Individual,Manual,First Owner,1800,15.3
+Honda Jazz,2014,156480,144432,Petrol,Individual,Automatic,First Owner,1200,19.2
+Tata Punch,2014,140274,143944,Petrol,Dealer,Manual,Second Owner,1800,19.3
+Tata Tiago,2013,80000,168546,Petrol,Trustmark Dealer,Manual,First Owner,1200,17.0
+Toyota Etios,2024,901585,38251,Petrol,Individual,Automatic,First Owner,1500,21.0
+Honda Jazz,2018,86252,98433,Petrol,Individual,Manual,Third Owner,1000,21.1
+Tata Nexon,2017,169679,101995,Petrol,Dealer,Manual,Second Owner,1200,19.3
+Tata Altroz,2025,677248,17821,Diesel,Dealer,Automatic,Second Owner,1200,17.0
+Hyundai Venue,2019,279383,77664,Petrol,Individual,Manual,Second Owner,1200,16.6
+Maruti Suzuki Baleno,2024,466781,23983,Petrol,Individual,Manual,Second Owner,1200,12.5
+Tata Tiago,2025,745184,23833,Diesel,Dealer,Automatic,First Owner,1800,14.8
+Maruti Suzuki Wagon R,2011,80000,173306,Diesel,Dealer,Manual,First Owner,1000,15.5
+Hyundai i10,2015,338943,141668,Electric,Individual,Manual,First Owner,1500,13.5
+Mahindra Bolero,2021,397415,68128,CNG,Trustmark Dealer,Manual,First Owner,800,19.8
+Maruti Suzuki Wagon R,2023,419862,24542,CNG,Individual,Manual,First Owner,1500,22.8
+Maruti Suzuki Baleno,2012,80641,179686,Petrol,Dealer,Manual,First Owner,1800,14.4
+Hyundai i10,2015,128468,140382,Petrol,Individual,Manual,First Owner,1200,19.1
+Hyundai Venue,2018,203233,97223,Petrol,Individual,Manual,Second Owner,1500,13.9
+Honda City,2022,677270,38852,Diesel,Individual,Manual,Second Owner,2000,16.8
+Tata Nexon,2011,80000,169689,CNG,Individual,Manual,First Owner,1800,15.2
+Toyota Etios,2019,369384,77548,Petrol,Individual,Manual,First Owner,1200,20.4
+Honda Jazz,2014,80000,150511,Petrol,Individual,Manual,First Owner,1200,15.3
+Hyundai Creta,2013,151582,144532,Petrol,Individual,Manual,First Owner,1500,22.0
+Mahindra Bolero,2018,103524,101250,Petrol,Individual,Manual,Second Owner,1000,17.0
+Maruti Suzuki Wagon R,2016,134336,105098,Petrol,Dealer,Manual,Second Owner,1800,15.4
+Maruti Suzuki Swift,2020,229690,69551,Petrol,Dealer,Automatic,Second Owner,1200,13.0
+Maruti Suzuki Dzire,2015,80000,133315,CNG,Dealer,Manual,Second Owner,1800,19.0
+Toyota Etios,2023,495104,65341,Petrol,Individual,Manual,Third Owner,800,21.6
+Tata Altroz,2011,80000,163472,Diesel,Individual,Automatic,First Owner,800,19.1
+Maruti Suzuki Wagon R,2023,609339,53664,Diesel,Dealer,Manual,First Owner,2000,27.0
+Tata Tiago,2010,80000,193798,Petrol,Individual,Manual,First Owner,1800,23.7
+Maruti Suzuki Wagon R,2021,408451,64934,Petrol,Individual,Manual,First Owner,1800,16.8
+Honda Amaze,2015,344376,133420,Diesel,Trustmark Dealer,Manual,First Owner,2000,16.7
+Tata Altroz,2016,87237,125336,Petrol,Trustmark Dealer,Manual,First Owner,1200,19.9
+Hyundai i20,2010,80000,190155,CNG,Individual,Automatic,Third Owner,1000,14.6
+Hyundai i20,2021,380202,77448,Petrol,Dealer,Manual,First Owner,1000,22.7
+Honda City,2012,80000,162522,Diesel,Individual,Automatic,Third Owner,1200,19.4
+Hyundai Creta,2020,498145,85586,Diesel,Dealer,Automatic,Second Owner,1000,19.0
+Maruti Suzuki Dzire,2021,531678,52267,Petrol,Individual,Manual,First Owner,2000,20.7
+Maruti Suzuki Swift,2023,334959,35276,Petrol,Individual,Manual,First Owner,800,24.9
+Kia Seltos,2021,685417,47136,CNG,Individual,Manual,First Owner,1000,18.7
+Mahindra Scorpio,2014,265445,149460,Petrol,Individual,Automatic,First Owner,1000,17.5
+Honda Amaze,2021,379481,77341,Petrol,Dealer,Manual,First Owner,1000,24.0
+Hyundai Creta,2023,650820,35071,Petrol,Individual,Manual,Second Owner,1000,21.9
+Kia Seltos,2015,309589,129637,Petrol,Dealer,Manual,First Owner,1500,16.7
+Toyota Innova,2011,114292,166624,Diesel,Dealer,Manual,First Owner,1200,18.0
+Toyota Innova,2024,1271093,21248,Diesel,Individual,Manual,Second Owner,1500,18.8
+Tata Tiago,2012,129936,148886,Petrol,Dealer,Manual,First Owner,1800,19.4
+Hyundai Creta,2019,493872,73045,Diesel,Individual,Manual,First Owner,1500,12.6
+Maruti Suzuki Dzire,2013,111163,158721,Petrol,Individual,Automatic,First Owner,1500,11.8
+Mahindra XUV300,2012,80000,183828,Petrol,Individual,Manual,First Owner,1200,14.5
+Tata Punch,2022,320799,81710,Petrol,Dealer,Manual,First Owner,1000,14.1
+Maruti Suzuki Swift,2012,163112,160960,Electric,Dealer,Manual,First Owner,1200,15.4
+Hyundai i10,2020,394933,89223,Petrol,Dealer,Manual,First Owner,2000,20.5
+Tata Nexon,2021,449434,62925,Petrol,Dealer,Manual,First Owner,1500,17.3
+Maruti Suzuki Swift,2010,80000,190185,Petrol,Trustmark Dealer,Manual,First Owner,1000,18.8
+Mahindra Scorpio,2012,191841,173191,Diesel,Individual,Manual,First Owner,1200,13.1
+Toyota Etios,2022,696898,48742,Petrol,Trustmark Dealer,Manual,First Owner,1800,16.2
+Toyota Glanza,2018,465395,97324,Petrol,Individual,Manual,First Owner,1500,20.3
+Tata Punch,2011,80000,175100,Diesel,Individual,Manual,First Owner,1200,20.4
+Honda Amaze,2025,764052,3000,Petrol,Individual,Manual,First Owner,1800,15.1
+Tata Tiago,2014,106803,125476,Petrol,Individual,Manual,First Owner,1500,18.6
+Honda City,2010,80000,199838,Petrol,Individual,Manual,Second Owner,1500,26.8
+Maruti Suzuki Baleno,2024,395369,20679,Petrol,Individual,Manual,Third Owner,1000,17.9
+Hyundai i10,2010,80000,184846,Petrol,Individual,Manual,First Owner,1000,15.2
+Maruti Suzuki Dzire,2018,410999,96102,Diesel,Individual,Automatic,Second Owner,2000,17.3
+Tata Altroz,2025,842848,21539,Diesel,Dealer,Automatic,First Owner,1500,18.4
+Hyundai Creta,2019,545292,86164,Diesel,Dealer,Automatic,First Owner,1200,17.4
+Maruti Suzuki Wagon R,2019,251003,76127,Electric,Individual,Manual,Second Owner,1500,17.9
+Maruti Suzuki Wagon R,2016,80000,134715,Petrol,Individual,Manual,Second Owner,800,12.2
+Tata Punch,2012,80000,186950,Petrol,Individual,Manual,Second Owner,1800,14.1
+Maruti Suzuki Baleno,2019,237606,89934,CNG,Individual,Automatic,First Owner,1000,17.4
+Kia Sonet,2024,906838,35683,Petrol,Dealer,Automatic,Second Owner,1800,17.3
+Tata Altroz,2011,129582,194903,Diesel,Individual,Automatic,First Owner,1200,15.7
+Hyundai Creta,2024,950729,37561,Diesel,Dealer,Automatic,First Owner,1000,17.3
+Honda Amaze,2016,80000,127369,Petrol,Dealer,Manual,First Owner,800,18.2
+Maruti Suzuki Swift,2018,266750,103180,Petrol,Individual,Automatic,Third Owner,1800,21.6
+Kia Sonet,2012,81853,174235,Petrol,Dealer,Automatic,First Owner,1000,17.6
+Tata Nexon,2019,147088,70831,Petrol,Individual,Manual,Second Owner,800,19.6
+Toyota Etios,2012,175465,176408,Petrol,Dealer,Automatic,First Owner,1500,15.8
+Maruti Suzuki Wagon R,2014,80000,127730,Petrol,Dealer,Manual,Second Owner,1200,20.3
+Tata Altroz,2021,489876,50464,Diesel,Dealer,Automatic,Second Owner,1200,19.5
+Tata Nexon,2010,80000,207642,CNG,Dealer,Automatic,Second Owner,1000,21.5
+Kia Sonet,2017,505170,118082,Diesel,Dealer,Manual,First Owner,1800,20.9
+Tata Altroz,2019,242704,101848,Petrol,Trustmark Dealer,Manual,First Owner,1000,20.4
+Tata Nexon,2012,80000,164739,Petrol,Individual,Manual,First Owner,1000,17.6
+Hyundai i20,2014,184698,130173,Petrol,Dealer,Automatic,First Owner,1200,19.0
+Hyundai Venue,2015,158944,129114,Petrol,Dealer,Automatic,First Owner,1000,22.3
+Tata Altroz,2020,260396,73224,CNG,Individual,Manual,First Owner,1200,15.4
+Tata Punch,2025,679224,12947,Petrol,Trustmark Dealer,Automatic,First Owner,800,15.5
+Maruti Suzuki Dzire,2023,416906,49604,Petrol,Individual,Manual,First Owner,1000,18.7
+Mahindra Scorpio,2013,227968,151664,Diesel,Individual,Manual,First Owner,1200,19.7
+Mahindra Scorpio,2010,80000,196224,Petrol,Individual,Manual,Second Owner,1800,14.7
+Maruti Suzuki Baleno,2010,80000,180136,Petrol,Individual,Manual,First Owner,800,17.7
+Tata Altroz,2019,105518,89403,Petrol,Dealer,Manual,Third Owner,1000,17.6
+Maruti Suzuki Baleno,2012,80000,168037,Diesel,Individual,Manual,Third Owner,2000,9.1
+Honda Amaze,2013,194223,147002,Diesel,Individual,Manual,First Owner,1800,17.1
+Hyundai i10,2023,460025,33170,Petrol,Individual,Manual,Second Owner,1500,17.4
+Honda Jazz,2023,545748,33789,CNG,Individual,Automatic,First Owner,1000,17.4
+Toyota Glanza,2023,779696,32758,Diesel,Dealer,Manual,Second Owner,1200,23.7
+Toyota Glanza,2014,247148,165256,Diesel,Dealer,Automatic,First Owner,1000,13.1
+Maruti Suzuki Wagon R,2019,124477,82818,Petrol,Individual,Manual,First Owner,1000,14.7
+Kia Seltos,2019,456364,81073,Petrol,Individual,Manual,First Owner,1200,8.0
+Maruti Suzuki Dzire,2012,80000,142830,Diesel,Individual,Manual,First Owner,1200,16.1
+Maruti Suzuki Wagon R,2018,80000,85269,Petrol,Individual,Manual,Third Owner,1200,16.4
+Tata Punch,2018,353564,92843,Diesel,Individual,Manual,First Owner,1500,16.0
+Hyundai i10,2016,80000,111769,Diesel,Individual,Manual,Second Owner,1000,22.4
+Mahindra XUV300,2022,534685,64580,Petrol,Individual,Manual,Third Owner,1200,21.4
+Toyota Glanza,2020,634072,70020,Diesel,Individual,Manual,First Owner,1800,18.3
+Hyundai Creta,2018,466706,111461,CNG,Individual,Manual,First Owner,1800,16.5
+Kia Sonet,2021,588789,60740,Diesel,Individual,Manual,Second Owner,1200,22.1
+Hyundai Venue,2022,626573,48446,Petrol,Dealer,Automatic,First Owner,1200,17.9
+Tata Punch,2019,233416,82934,CNG,Dealer,Manual,First Owner,1000,14.7
+Hyundai i20,2014,98229,144045,Petrol,Individual,Automatic,First Owner,800,11.1
+Kia Seltos,2022,868991,68625,Diesel,Dealer,Automatic,Second Owner,1500,16.2
+Maruti Suzuki Swift,2021,412774,32164,Diesel,Dealer,Automatic,First Owner,1000,21.0
+Maruti Suzuki Baleno,2025,821983,3000,Diesel,Individual,Automatic,First Owner,1200,27.1
+Tata Nexon,2012,95293,161481,Petrol,Individual,Manual,First Owner,1200,18.2
+Kia Seltos,2016,277649,120174,Petrol,Individual,Manual,First Owner,1000,14.9
+Mahindra XUV300,2024,735200,32281,Petrol,Dealer,Manual,First Owner,800,13.3
+Toyota Innova,2018,563910,101677,Petrol,Individual,Automatic,Second Owner,1200,20.2
+Mahindra Scorpio,2025,1361700,7389,Petrol,Dealer,Manual,Second Owner,2000,10.9
+Mahindra Bolero,2010,87501,204228,Diesel,Individual,Manual,First Owner,1500,20.2
+Tata Punch,2010,80000,204362,Petrol,Individual,Automatic,First Owner,1200,21.3
+Hyundai i20,2022,506678,50208,Diesel,Trustmark Dealer,Manual,First Owner,800,19.7
+Toyota Glanza,2015,282846,143551,CNG,Individual,Manual,First Owner,1500,17.1
+Honda City,2018,334648,99271,Petrol,Dealer,Automatic,First Owner,800,20.3
+Hyundai i10,2016,115768,113262,Diesel,Trustmark Dealer,Manual,Second Owner,1200,18.7
+Maruti Suzuki Wagon R,2016,167878,128373,Diesel,Dealer,Manual,First Owner,1500,14.9
+Toyota Glanza,2025,1073988,13327,Petrol,Individual,Automatic,First Owner,1200,25.4
+Hyundai i10,2011,80000,180016,Petrol,Dealer,Manual,First Owner,1000,16.6
+Kia Seltos,2022,827686,65675,Diesel,Individual,Manual,First Owner,800,21.1
+Hyundai i20,2024,439036,3000,CNG,Individual,Manual,First Owner,800,8.3
+Maruti Suzuki Swift,2020,351840,54987,Diesel,Dealer,Manual,Second Owner,1200,23.1
+Mahindra Bolero,2016,229059,105755,CNG,Dealer,Manual,Second Owner,1800,23.9
+Maruti Suzuki Wagon R,2012,96194,163640,Electric,Individual,Automatic,Second Owner,1000,18.1
+Maruti Suzuki Wagon R,2020,212911,68944,Petrol,Individual,Automatic,Second Owner,1200,20.2
+Honda Jazz,2017,412043,89912,Diesel,Dealer,Manual,First Owner,1500,20.2
+Mahindra Bolero,2012,80000,156178,Petrol,Dealer,Manual,Second Owner,800,15.4
+Maruti Suzuki Dzire,2015,197745,121669,Electric,Individual,Manual,First Owner,1000,20.2
+Hyundai Venue,2025,772896,41489,Petrol,Dealer,Manual,First Owner,1200,14.8
+Toyota Etios,2014,209550,165620,Petrol,Individual,Manual,First Owner,1500,15.6
+Kia Seltos,2012,80000,163059,CNG,Individual,Manual,First Owner,1200,22.5
+Tata Altroz,2020,311882,67637,Petrol,Dealer,Manual,First Owner,1500,21.9
+Maruti Suzuki Dzire,2013,393983,142209,Diesel,Trustmark Dealer,Automatic,First Owner,1800,15.2
+Maruti Suzuki Wagon R,2024,420945,3000,Petrol,Individual,Manual,Second Owner,1500,15.1
+Maruti Suzuki Dzire,2023,709288,34597,Electric,Individual,Automatic,Second Owner,2000,15.4
+Maruti Suzuki Wagon R,2025,514054,3000,CNG,Individual,Manual,First Owner,1500,20.9
+Honda Jazz,2024,779320,22981,Petrol,Dealer,Automatic,First Owner,1800,14.0
+Maruti Suzuki Baleno,2013,184078,136797,Diesel,Individual,Manual,Second Owner,1800,19.4
+Tata Altroz,2013,169989,146856,Petrol,Individual,Manual,First Owner,1500,21.0
+Honda Amaze,2015,360009,133783,Diesel,Trustmark Dealer,Automatic,First Owner,1800,17.6
+Tata Altroz,2017,395949,112394,Diesel,Individual,Automatic,First Owner,2000,22.0
+Maruti Suzuki Baleno,2024,623158,29009,Diesel,Individual,Manual,First Owner,1200,16.8
+Toyota Etios,2021,508768,44154,Petrol,Individual,Manual,First Owner,1500,17.1
+Toyota Innova,2020,599425,82256,Petrol,Dealer,Manual,Second Owner,1200,14.1
+Toyota Innova,2024,1310116,14397,Diesel,Individual,Manual,Second Owner,1800,22.1
+Maruti Suzuki Wagon R,2020,80000,79594,Petrol,Individual,Manual,Second Owner,1200,14.9
+Maruti Suzuki Wagon R,2016,196097,119872,Petrol,Individual,Automatic,First Owner,1800,19.4
+Kia Sonet,2016,265538,103483,Petrol,Dealer,Manual,Second Owner,1800,17.7
+Hyundai i20,2018,372454,92205,Petrol,Dealer,Manual,First Owner,2000,13.8
+Hyundai Venue,2011,80000,184384,Diesel,Individual,Manual,First Owner,1000,15.6
+Tata Punch,2021,295011,67355,Petrol,Individual,Manual,First Owner,1500,23.5
+Honda Jazz,2020,343616,70308,Petrol,Dealer,Manual,First Owner,1500,18.8
+Kia Sonet,2021,668259,78381,CNG,Individual,Manual,First Owner,2000,14.0
+Hyundai i20,2018,323099,108090,Petrol,Individual,Manual,First Owner,2000,19.2
+Kia Sonet,2022,812223,44920,Diesel,Individual,Manual,First Owner,1200,17.4
+Maruti Suzuki Swift,2025,641940,21001,Petrol,Individual,Automatic,First Owner,1200,31.8
+Tata Altroz,2019,338161,107205,Diesel,Individual,Automatic,First Owner,1000,19.1
+Honda City,2017,480730,131525,Diesel,Individual,Automatic,First Owner,2000,16.5
+Maruti Suzuki Baleno,2011,80000,165264,CNG,Individual,Manual,Third Owner,1000,23.7
+Maruti Suzuki Dzire,2022,372139,36881,Petrol,Individual,Manual,First Owner,1500,10.6
+Hyundai Venue,2024,816391,41819,Petrol,Dealer,Manual,First Owner,1800,18.4
+Kia Sonet,2021,651374,47300,Diesel,Individual,Manual,First Owner,1200,26.0
+Honda Jazz,2023,439982,20129,Petrol,Individual,Manual,Second Owner,1000,17.5
+Kia Sonet,2023,739361,30165,Petrol,Dealer,Manual,First Owner,1000,11.1
+Toyota Glanza,2022,619775,53042,Petrol,Individual,Manual,Second Owner,1800,16.4
+Tata Tiago,2018,207840,94771,CNG,Dealer,Manual,First Owner,1200,23.8
+Toyota Innova,2011,125820,172193,Diesel,Individual,Manual,First Owner,800,19.5
+Maruti Suzuki Baleno,2010,80000,183909,Diesel,Dealer,Manual,First Owner,1500,14.6
+Maruti Suzuki Swift,2013,80000,147451,Diesel,Individual,Manual,First Owner,1000,15.3
+Mahindra Scorpio,2016,351308,109445,Petrol,Individual,Manual,Second Owner,1800,15.8
+Toyota Etios,2021,362779,87379,Petrol,Individual,Manual,Second Owner,1200,19.4
+Maruti Suzuki Dzire,2017,118391,111570,Petrol,Individual,Manual,First Owner,1000,23.4
+Tata Nexon,2010,80000,202641,Diesel,Individual,Manual,Third Owner,800,22.2
+Honda Jazz,2013,83012,150131,Petrol,Dealer,Automatic,First Owner,1200,19.8
+Mahindra Bolero,2025,820699,9768,CNG,Dealer,Manual,First Owner,1200,12.7
+Honda Jazz,2025,780735,3437,Diesel,Individual,Manual,First Owner,1500,12.7
+Hyundai i20,2016,266049,88179,Petrol,Dealer,Automatic,First Owner,1200,20.1
+Hyundai i20,2022,353503,31463,Petrol,Dealer,Manual,Second Owner,1200,12.6
+Hyundai Creta,2021,719276,38272,Petrol,Dealer,Automatic,First Owner,1000,17.1
+Honda City,2024,1040206,3000,Electric,Dealer,Automatic,First Owner,1000,19.2
+Mahindra Scorpio,2024,1282874,9655,CNG,Dealer,Manual,First Owner,2000,13.4
+Tata Tiago,2020,180832,87899,CNG,Individual,Manual,First Owner,1000,13.9
+Hyundai Creta,2016,464693,119466,Petrol,Dealer,Manual,First Owner,2000,17.6
+Maruti Suzuki Wagon R,2020,173498,87486,Petrol,Dealer,Automatic,Second Owner,1200,20.0
+Toyota Innova,2015,129152,136931,Petrol,Individual,Manual,First Owner,800,22.2
+Mahindra XUV300,2015,114033,141390,Petrol,Individual,Manual,First Owner,1000,20.4
+Maruti Suzuki Wagon R,2019,117102,73189,Petrol,Individual,Manual,First Owner,800,18.3
+Maruti Suzuki Wagon R,2019,279427,90287,Petrol,Trustmark Dealer,Manual,First Owner,1800,15.0
+Honda Jazz,2019,499729,92744,Electric,Individual,Automatic,First Owner,1200,13.7
+Maruti Suzuki Baleno,2016,121759,113080,Petrol,Dealer,Manual,Second Owner,1200,16.0
+Mahindra Bolero,2016,232791,126714,Petrol,Dealer,Automatic,Third Owner,1500,19.6
+Hyundai i20,2010,197258,198794,Diesel,Trustmark Dealer,Automatic,First Owner,1500,19.3
+Maruti Suzuki Dzire,2019,233187,77405,Diesel,Individual,Manual,Third Owner,2000,9.6
+Kia Seltos,2019,698542,70526,Diesel,Dealer,Manual,First Owner,2000,14.9
+Maruti Suzuki Swift,2024,779453,9790,Diesel,Dealer,Automatic,First Owner,1500,22.8
+Hyundai i10,2018,251987,97038,CNG,Individual,Automatic,Second Owner,1800,18.3
+Maruti Suzuki Baleno,2017,282344,111924,Diesel,Dealer,Automatic,Second Owner,1800,12.3
+Maruti Suzuki Dzire,2011,80000,170489,Petrol,Individual,Manual,Second Owner,1200,27.4
+Maruti Suzuki Swift,2013,105564,156319,Diesel,Dealer,Manual,First Owner,1500,17.9
+Maruti Suzuki Baleno,2015,80000,138846,Petrol,Individual,Manual,First Owner,800,19.5
+Maruti Suzuki Swift,2016,152320,127418,Petrol,Individual,Automatic,First Owner,1500,19.6
+Maruti Suzuki Dzire,2015,125532,150622,Petrol,Individual,Manual,First Owner,2000,16.5
+Honda Jazz,2016,80000,135323,Petrol,Individual,Manual,First Owner,800,15.1
+Honda Jazz,2022,623837,35984,Diesel,Individual,Manual,First Owner,1800,26.5
+Hyundai Venue,2012,238247,188203,Petrol,Dealer,Manual,First Owner,2000,22.0
+Hyundai Venue,2015,124281,125628,Petrol,Individual,Manual,First Owner,1000,21.3
+Tata Altroz,2012,80000,180538,Petrol,Individual,Manual,First Owner,1200,20.3
+Mahindra XUV300,2014,298569,144815,Diesel,Dealer,Manual,First Owner,2000,14.0
+Mahindra Bolero,2020,671415,67054,Petrol,Dealer,Automatic,First Owner,2000,23.1
+Maruti Suzuki Wagon R,2010,80000,170307,Diesel,Individual,Automatic,First Owner,1000,14.6
+Maruti Suzuki Wagon R,2015,154251,129941,Diesel,Trustmark Dealer,Manual,First Owner,1200,19.1
+Maruti Suzuki Baleno,2010,80000,173287,Petrol,Individual,Manual,First Owner,1500,11.4
+Hyundai Creta,2025,1096155,23607,Diesel,Dealer,Automatic,First Owner,1000,9.8
+Tata Nexon,2021,348024,78201,Petrol,Individual,Manual,Second Owner,1200,19.3
+Hyundai i10,2013,80000,146437,Petrol,Dealer,Manual,First Owner,800,14.8
+Maruti Suzuki Dzire,2013,80000,159623,Diesel,Trustmark Dealer,Manual,First Owner,1000,10.0
+Hyundai i10,2011,80000,171295,CNG,Dealer,Manual,First Owner,1200,20.2
+Tata Tiago,2017,88787,100458,Petrol,Individual,Manual,Third Owner,1500,26.5
+Maruti Suzuki Wagon R,2022,402907,57293,Petrol,Dealer,Automatic,Second Owner,1500,23.6
+Mahindra XUV300,2019,460216,83537,Petrol,Individual,Manual,First Owner,1500,17.0
+Maruti Suzuki Dzire,2024,528870,44875,Petrol,Dealer,Manual,First Owner,1200,18.0
+Kia Seltos,2015,361621,126213,Diesel,Dealer,Automatic,First Owner,1000,21.6
+Maruti Suzuki Swift,2014,80000,155992,Diesel,Trustmark Dealer,Automatic,Third Owner,800,22.5
+Mahindra Bolero,2017,357772,109168,Diesel,Individual,Automatic,First Owner,1000,16.6
+Mahindra Scorpio,2013,165830,165549,Petrol,Individual,Manual,First Owner,1200,18.1
+Kia Seltos,2025,1153984,6634,Diesel,Individual,Manual,Third Owner,1000,19.2
+Toyota Etios,2012,80000,167405,Diesel,Individual,Manual,Second Owner,800,20.2
+Toyota Glanza,2017,250687,106614,Diesel,Individual,Manual,First Owner,1000,17.5
+Honda City,2018,321151,85967,Petrol,Individual,Manual,First Owner,1500,17.5
+Toyota Etios,2010,139975,199944,Petrol,Dealer,Manual,First Owner,1500,23.5
+Maruti Suzuki Baleno,2017,339317,115802,Petrol,Individual,Manual,First Owner,2000,22.8
+Tata Punch,2017,325317,115122,Petrol,Individual,Automatic,First Owner,1800,19.9
+Tata Altroz,2014,80000,162443,Petrol,Individual,Automatic,Second Owner,1200,24.9
+Mahindra Scorpio,2012,80000,185392,Petrol,Dealer,Manual,Second Owner,1000,16.5
+Tata Punch,2010,80000,187500,Diesel,Dealer,Manual,First Owner,1200,24.5
+Hyundai i20,2010,80000,196476,Petrol,Individual,Manual,First Owner,800,20.2
+Honda City,2017,344653,100516,Diesel,Individual,Manual,First Owner,1200,31.1
+Hyundai i20,2011,80000,180280,Petrol,Individual,Manual,First Owner,1200,13.2
+Maruti Suzuki Dzire,2025,598317,4803,Diesel,Individual,Manual,Second Owner,1200,15.2
+Tata Punch,2013,102993,175440,Petrol,Individual,Automatic,First Owner,1000,19.7
+Hyundai i20,2020,353576,76364,Petrol,Individual,Manual,First Owner,1500,19.6
+Maruti Suzuki Dzire,2020,502624,69383,Diesel,Trustmark Dealer,Automatic,First Owner,1800,25.8
+Hyundai Creta,2017,308464,122323,CNG,Individual,Manual,First Owner,1500,15.3
+Hyundai Creta,2024,935852,3000,Petrol,Dealer,Manual,First Owner,1500,21.6
+Hyundai i20,2011,80000,155830,Petrol,Individual,Manual,Second Owner,1200,22.6
+Hyundai Venue,2013,80000,165550,Diesel,Trustmark Dealer,Manual,Second Owner,800,20.8
+Honda Amaze,2014,281949,144725,Diesel,Trustmark Dealer,Manual,First Owner,1500,14.2
+Hyundai i20,2012,80000,171005,Petrol,Dealer,Automatic,Second Owner,1200,23.6
+Kia Seltos,2014,180336,128083,Petrol,Individual,Manual,First Owner,1000,22.9
+Kia Seltos,2015,204810,131721,Petrol,Individual,Manual,Second Owner,1200,20.4
+Tata Nexon,2022,582351,72042,CNG,Dealer,Manual,First Owner,2000,18.8
+Hyundai Venue,2014,199416,153890,Petrol,Dealer,Manual,First Owner,1500,18.9
+Tata Altroz,2024,438100,26036,Petrol,Individual,Manual,Third Owner,1200,17.7
+Mahindra Bolero,2022,640584,42731,CNG,Individual,Manual,First Owner,1500,20.6
+Honda City,2024,813121,19265,Petrol,Individual,Automatic,First Owner,1200,18.1
+Toyota Etios,2011,80000,154449,Petrol,Dealer,Manual,First Owner,1200,14.6
+Tata Tiago,2025,471866,15091,Petrol,Dealer,Manual,First Owner,1000,13.8
+Honda Jazz,2019,257305,94145,Petrol,Dealer,Manual,First Owner,1200,15.0
+Hyundai i20,2025,819440,3000,Petrol,Dealer,Automatic,First Owner,1500,18.9
+Toyota Glanza,2015,80000,124062,Petrol,Individual,Manual,Second Owner,800,17.9
+Maruti Suzuki Wagon R,2025,671835,3000,Diesel,Individual,Manual,First Owner,1800,18.9
+Honda Amaze,2019,231920,72415,Diesel,Individual,Manual,First Owner,1000,20.0
+Mahindra Bolero,2011,80000,180641,Petrol,Dealer,Manual,First Owner,1500,15.5
+Maruti Suzuki Wagon R,2016,80000,94987,Petrol,Individual,Manual,Second Owner,1500,23.9
+Honda Jazz,2012,156222,175371,Petrol,Individual,Automatic,First Owner,1500,16.9
+Maruti Suzuki Wagon R,2025,497570,21046,CNG,Individual,Manual,First Owner,1500,16.3
+Toyota Innova,2014,488505,140986,Petrol,Individual,Automatic,First Owner,2000,19.9
+Maruti Suzuki Dzire,2013,80000,126231,Diesel,Individual,Manual,First Owner,1200,10.7
+Kia Seltos,2018,586561,84042,Petrol,Individual,Automatic,Second Owner,1500,14.8
+Maruti Suzuki Wagon R,2016,212597,134794,Diesel,Individual,Automatic,First Owner,1500,21.9
+Kia Seltos,2011,80000,146664,Petrol,Dealer,Manual,Second Owner,1000,11.1
+Toyota Innova,2023,1178754,31829,Diesel,Individual,Manual,First Owner,1000,22.5
+Honda Amaze,2023,478125,21839,Petrol,Individual,Manual,First Owner,1200,24.0
+Toyota Innova,2021,802683,69654,CNG,Individual,Automatic,First Owner,1000,16.5
+Toyota Etios,2019,374928,75898,Petrol,Dealer,Manual,First Owner,1200,19.2
+Kia Sonet,2016,444902,124847,Diesel,Individual,Manual,First Owner,1200,22.5
+Hyundai Venue,2018,395969,102785,Diesel,Dealer,Manual,First Owner,1500,16.1
+Honda Jazz,2018,517718,118034,Electric,Trustmark Dealer,Automatic,First Owner,1000,21.5
+Maruti Suzuki Wagon R,2012,132652,165564,Petrol,Dealer,Manual,First Owner,1800,15.3
+Honda City,2011,80000,184512,Petrol,Individual,Manual,First Owner,1200,16.1
+Maruti Suzuki Baleno,2014,137857,126179,Petrol,Dealer,Automatic,First Owner,1500,14.8
+Tata Nexon,2017,165794,122284,Petrol,Individual,Manual,First Owner,800,19.4
+Tata Altroz,2012,80000,158873,Diesel,Individual,Automatic,First Owner,1200,22.6
+Tata Tiago,2011,135086,173270,Electric,Individual,Manual,First Owner,800,17.3
+Tata Nexon,2023,794638,35733,Electric,Individual,Manual,First Owner,1500,12.9
+Toyota Glanza,2015,115345,113245,Petrol,Individual,Automatic,First Owner,1200,13.7
+Toyota Innova,2019,803533,86745,Diesel,Individual,Manual,First Owner,2000,19.6
+Tata Tiago,2018,248603,107609,Diesel,Individual,Manual,First Owner,1200,25.4
+Honda Amaze,2021,273374,63515,CNG,Individual,Manual,Second Owner,1200,19.6
+Kia Seltos,2021,725437,40933,Petrol,Individual,Manual,First Owner,1000,16.5
+Maruti Suzuki Swift,2014,84900,142514,Petrol,Trustmark Dealer,Manual,First Owner,1500,21.1
+Maruti Suzuki Baleno,2023,451305,44904,Diesel,Individual,Manual,First Owner,1200,17.0
+Maruti Suzuki Swift,2015,80000,109464,Petrol,Dealer,Manual,Second Owner,1200,16.5
+Honda Amaze,2023,452713,23102,Petrol,Individual,Manual,First Owner,1000,14.2
+Hyundai i10,2016,161312,130518,Electric,Individual,Manual,Second Owner,1000,23.6
+Toyota Innova,2011,269304,183241,Electric,Individual,Manual,First Owner,1000,8.0
+Honda Amaze,2022,518002,52943,CNG,Individual,Manual,First Owner,2000,21.2
+Hyundai Creta,2010,80000,214313,Diesel,Individual,Manual,First Owner,1200,16.1
+Mahindra Scorpio,2022,804808,53622,Petrol,Individual,Automatic,First Owner,800,16.4
+Toyota Etios,2010,80000,199894,Petrol,Individual,Manual,Second Owner,2000,24.8
+Hyundai i20,2013,80000,188528,Petrol,Individual,Manual,First Owner,800,15.1
+Hyundai i20,2019,131843,81434,Petrol,Individual,Manual,Third Owner,1200,15.3
+Hyundai i20,2025,897154,3000,Petrol,Individual,Automatic,First Owner,1500,17.5
+Maruti Suzuki Dzire,2016,272244,125133,Diesel,Individual,Manual,Second Owner,2000,19.7
+Maruti Suzuki Dzire,2011,80000,185267,Petrol,Individual,Manual,Second Owner,1500,16.2
+Kia Sonet,2013,80000,149679,Diesel,Individual,Manual,First Owner,1200,11.7
+Tata Altroz,2024,698109,11611,Petrol,Individual,Manual,First Owner,2000,14.5
+Hyundai Venue,2021,375481,87718,Petrol,Individual,Automatic,Second Owner,800,23.1
+Toyota Glanza,2011,285137,183922,Petrol,Individual,Automatic,First Owner,2000,18.3
+Tata Altroz,2016,91209,111212,Petrol,Trustmark Dealer,Manual,Third Owner,1800,19.8
+Kia Seltos,2014,477739,154991,Diesel,Individual,Automatic,First Owner,2000,17.0
+Toyota Glanza,2012,80000,166690,Petrol,Individual,Manual,First Owner,1000,15.4
+Tata Altroz,2023,419621,32965,Petrol,Individual,Manual,First Owner,1000,24.7
+Hyundai i20,2019,375798,90747,Diesel,Trustmark Dealer,Automatic,Second Owner,1500,17.2
+Kia Seltos,2012,80000,152497,Petrol,Individual,Manual,Third Owner,1200,16.2
+Toyota Glanza,2020,493492,76231,Petrol,Individual,Manual,First Owner,1200,22.4
+Kia Seltos,2016,394815,142955,Petrol,Trustmark Dealer,Manual,Second Owner,2000,15.1
+Maruti Suzuki Dzire,2010,80000,197594,Petrol,Individual,Automatic,Second Owner,1500,15.6
+Mahindra Bolero,2017,317319,103485,Diesel,Trustmark Dealer,Manual,First Owner,1200,18.0
+Honda City,2012,80000,161914,Petrol,Individual,Manual,First Owner,1200,18.0
+Maruti Suzuki Wagon R,2013,80000,151075,Petrol,Dealer,Manual,Second Owner,1000,19.0
+Tata Altroz,2024,492557,20952,Petrol,Individual,Manual,First Owner,1000,26.4
+Honda Jazz,2021,383556,55466,Diesel,Individual,Manual,First Owner,1000,19.3
+Maruti Suzuki Swift,2012,80000,178995,Petrol,Trustmark Dealer,Automatic,Second Owner,1800,8.5
+Tata Punch,2023,709446,15201,Diesel,Individual,Automatic,First Owner,1500,19.3
+Mahindra Scorpio,2019,524904,94344,Petrol,Trustmark Dealer,Automatic,Second Owner,1200,18.2
+Hyundai Venue,2023,680213,31443,Diesel,Individual,Automatic,Second Owner,1200,18.2
+Tata Tiago,2021,276319,64523,Petrol,Dealer,Manual,Second Owner,1500,19.0
+Tata Nexon,2015,266106,118476,Petrol,Trustmark Dealer,Manual,First Owner,1800,17.9
+Hyundai Creta,2018,321845,111943,Petrol,Individual,Manual,First Owner,1800,17.8
+Kia Seltos,2018,616649,110947,Diesel,Trustmark Dealer,Manual,First Owner,1200,20.5
+Toyota Innova,2021,960793,71515,CNG,Individual,Automatic,First Owner,1800,15.8
+Maruti Suzuki Baleno,2013,80000,137822,Petrol,Dealer,Manual,First Owner,1200,14.2
+Kia Seltos,2015,294241,141949,Petrol,Individual,Automatic,First Owner,1200,30.1
+Mahindra XUV300,2013,148358,160858,CNG,Individual,Manual,First Owner,1800,15.1
+Hyundai i20,2014,80000,124736,Petrol,Dealer,Manual,First Owner,1200,18.4
+Mahindra Bolero,2012,93888,167708,Petrol,Individual,Manual,First Owner,1200,12.0
+Maruti Suzuki Swift,2010,80000,196374,Petrol,Individual,Manual,First Owner,1200,18.5
+Kia Seltos,2025,1343160,18672,Diesel,Individual,Manual,First Owner,1200,14.3
+Honda City,2011,80000,182127,Diesel,Dealer,Manual,Second Owner,1200,16.2
+Honda Amaze,2024,676256,27494,Diesel,Individual,Manual,First Owner,1500,22.2
+Maruti Suzuki Baleno,2010,80000,209683,CNG,Dealer,Automatic,Second Owner,1200,19.9
+Mahindra Bolero,2022,574471,62712,Petrol,Trustmark Dealer,Manual,Second Owner,1000,20.3
+Maruti Suzuki Wagon R,2015,80000,97595,Petrol,Individual,Manual,First Owner,1800,10.9
+Hyundai Creta,2018,366791,92190,Petrol,Individual,Automatic,First Owner,1200,25.3
+Maruti Suzuki Wagon R,2014,80000,142024,Petrol,Dealer,Manual,First Owner,2000,13.2
+Toyota Glanza,2017,284308,86974,Petrol,Individual,Automatic,First Owner,1000,24.1
+Maruti Suzuki Dzire,2017,176977,109130,Petrol,Individual,Automatic,First Owner,1200,22.1
+Kia Seltos,2018,388630,110985,Petrol,Dealer,Manual,First Owner,1200,20.3
+Honda Jazz,2016,205643,106961,Diesel,Individual,Manual,Second Owner,1800,14.6
+Maruti Suzuki Dzire,2018,80000,100036,Petrol,Individual,Manual,Second Owner,1000,18.6
+Maruti Suzuki Wagon R,2023,456008,25010,Petrol,Dealer,Automatic,Second Owner,2000,16.1
+Maruti Suzuki Wagon R,2016,243857,111937,Diesel,Individual,Automatic,First Owner,1200,18.1
+Honda City,2015,261446,149728,Diesel,Individual,Manual,First Owner,1500,17.0
+Toyota Etios,2012,80000,161489,Diesel,Individual,Manual,Third Owner,1200,9.8
+Maruti Suzuki Wagon R,2015,80000,137546,Diesel,Dealer,Manual,First Owner,800,22.5
+Mahindra Bolero,2012,80000,145545,Diesel,Dealer,Manual,First Owner,1200,17.7
+Maruti Suzuki Baleno,2012,80000,190347,Petrol,Individual,Automatic,First Owner,1000,16.1
+Toyota Etios,2025,847132,19231,Petrol,Individual,Manual,First Owner,1200,15.8
+Kia Seltos,2011,237723,177810,Diesel,Individual,Manual,First Owner,1500,19.4
+Toyota Innova,2017,464016,114906,Petrol,Individual,Manual,First Owner,1200,14.4
+Honda City,2023,657038,19082,Petrol,Individual,Automatic,First Owner,800,9.0
+Mahindra Scorpio,2025,1224767,26190,Petrol,Trustmark Dealer,Automatic,First Owner,800,19.6
+Maruti Suzuki Baleno,2012,80000,164112,Petrol,Individual,Manual,First Owner,1000,20.1
+Maruti Suzuki Swift,2012,80000,165551,Petrol,Dealer,Manual,First Owner,1000,17.2
+Maruti Suzuki Baleno,2015,109504,126100,Petrol,Individual,Manual,First Owner,1500,13.4
+Tata Punch,2018,272250,89032,Diesel,Individual,Manual,Second Owner,1000,18.4
+Toyota Innova,2025,1429808,20336,CNG,Individual,Manual,First Owner,1800,12.1
+Honda Jazz,2013,80000,159070,Petrol,Individual,Manual,First Owner,1000,13.9
+Mahindra Bolero,2012,80000,175820,CNG,Dealer,Manual,Second Owner,800,15.0
+Maruti Suzuki Wagon R,2014,85967,143894,Petrol,Trustmark Dealer,Manual,First Owner,1800,21.4
+Toyota Etios,2023,512820,42158,CNG,Dealer,Manual,Second Owner,1000,16.5
+Maruti Suzuki Baleno,2010,80000,186973,CNG,Individual,Manual,Second Owner,1200,16.2
+Hyundai i10,2016,302463,146756,Petrol,Dealer,Automatic,First Owner,2000,25.8
+Honda City,2011,163168,161184,Diesel,Individual,Manual,First Owner,2000,19.4
+Kia Sonet,2012,408759,183131,Electric,Dealer,Automatic,First Owner,1500,19.4
+Honda Jazz,2024,406942,40414,CNG,Individual,Manual,Third Owner,800,16.5
+Maruti Suzuki Wagon R,2010,121083,181774,Electric,Individual,Manual,Second Owner,1500,15.6
+Honda City,2015,140401,158751,Petrol,Individual,Manual,Second Owner,2000,9.3
+Maruti Suzuki Baleno,2024,628280,35945,Petrol,Individual,Manual,Second Owner,2000,21.9
+Mahindra XUV300,2019,364564,95653,Diesel,Individual,Manual,First Owner,1000,19.8
+Honda City,2011,80000,180336,Diesel,Dealer,Manual,Second Owner,1200,17.3
+Maruti Suzuki Swift,2017,361822,105393,Diesel,Dealer,Automatic,First Owner,1200,17.5
+Maruti Suzuki Wagon R,2025,405381,9487,Petrol,Trustmark Dealer,Manual,Second Owner,1000,20.9
+Maruti Suzuki Swift,2016,80000,124686,Petrol,Individual,Manual,First Owner,1500,11.8
+Kia Sonet,2018,310666,112814,Petrol,Individual,Manual,First Owner,1000,15.6
+Tata Nexon,2018,164468,98175,Diesel,Individual,Manual,Second Owner,1200,13.5
+Toyota Innova,2020,624365,61062,Petrol,Individual,Automatic,Second Owner,800,25.1
+Honda Amaze,2012,83912,177893,Diesel,Individual,Automatic,First Owner,1200,21.5
+Tata Altroz,2023,414947,47053,Diesel,Individual,Manual,First Owner,1000,9.2
+Maruti Suzuki Baleno,2025,635122,19855,Petrol,Individual,Manual,First Owner,1200,11.9
+Kia Seltos,2012,80000,176945,Petrol,Individual,Manual,Third Owner,1000,17.5
+Hyundai i10,2023,555429,32748,Petrol,Individual,Manual,First Owner,2000,16.1
+Tata Altroz,2023,419390,24852,CNG,Dealer,Automatic,First Owner,1000,12.7
+Honda City,2021,618487,49581,Diesel,Individual,Automatic,First Owner,1200,25.8
+Honda Amaze,2015,107771,112374,Petrol,Trustmark Dealer,Manual,First Owner,1000,19.3
+Kia Seltos,2017,282137,110843,Petrol,Individual,Manual,First Owner,800,19.9
+Maruti Suzuki Dzire,2023,395530,34998,Petrol,Dealer,Manual,First Owner,1000,15.2
+Tata Tiago,2012,80000,162720,Petrol,Dealer,Manual,Second Owner,800,20.9
+Hyundai Creta,2023,647461,3000,CNG,Dealer,Manual,Second Owner,1000,16.5
+Tata Punch,2024,621678,9032,Diesel,Dealer,Manual,Second Owner,1200,16.9
+Maruti Suzuki Baleno,2020,482034,85450,Petrol,Dealer,Automatic,First Owner,1500,20.4
+Maruti Suzuki Swift,2015,80000,124024,Diesel,Individual,Manual,First Owner,800,11.5
+Hyundai Creta,2018,344814,100327,Petrol,Individual,Manual,Second Owner,1200,24.4
+Hyundai i20,2010,80000,175311,Diesel,Individual,Manual,Second Owner,1500,18.7
+Hyundai i20,2024,494716,41264,Petrol,Individual,Manual,First Owner,1000,23.1
+Honda Amaze,2015,88912,130271,Diesel,Individual,Automatic,Second Owner,1200,13.7
+Honda City,2010,80000,195480,CNG,Individual,Manual,Second Owner,800,14.3
+Hyundai i20,2022,389761,75909,Petrol,Individual,Automatic,First Owner,1000,13.4
+Hyundai i10,2020,282398,90197,Diesel,Individual,Automatic,Second Owner,1200,19.0
+Maruti Suzuki Swift,2019,558107,80321,Electric,Individual,Manual,First Owner,2000,18.3
+Tata Nexon,2010,168341,184881,Petrol,Individual,Manual,First Owner,2000,16.1
+Hyundai i10,2022,559261,44093,Petrol,Dealer,Automatic,First Owner,2000,13.9
+Maruti Suzuki Baleno,2020,310555,78118,Diesel,Dealer,Manual,First Owner,1200,12.9
+Hyundai Creta,2022,413204,46737,Petrol,Individual,Manual,Second Owner,800,17.8
+Tata Tiago,2023,443560,31257,Petrol,Individual,Automatic,First Owner,1200,16.1
+Maruti Suzuki Swift,2013,80000,173606,Petrol,Individual,Automatic,First Owner,1000,15.3
+Tata Tiago,2013,80000,154629,Diesel,Individual,Manual,Second Owner,800,24.2
+Tata Punch,2024,545164,51595,Petrol,Dealer,Manual,Second Owner,800,17.7
+Honda City,2018,300495,97088,Petrol,Individual,Manual,Second Owner,1200,23.1
+Honda Amaze,2017,321434,129423,Diesel,Trustmark Dealer,Automatic,First Owner,1200,15.9
+Honda City,2014,80000,148287,Petrol,Individual,Manual,Second Owner,1000,19.0
+Hyundai i20,2020,408267,83555,Diesel,Dealer,Manual,First Owner,1500,17.8
+Toyota Glanza,2022,602119,39304,Petrol,Individual,Manual,First Owner,1200,11.2
+Tata Nexon,2010,119911,181754,CNG,Individual,Automatic,First Owner,1800,23.7
+Tata Punch,2018,330587,101516,Diesel,Dealer,Automatic,First Owner,1000,17.5
+Honda Jazz,2025,652664,23862,Petrol,Individual,Manual,Second Owner,1200,21.0
+Hyundai i20,2014,80000,144483,CNG,Dealer,Manual,First Owner,1000,15.0
+Tata Altroz,2014,170954,128563,Petrol,Individual,Automatic,First Owner,1200,17.3
